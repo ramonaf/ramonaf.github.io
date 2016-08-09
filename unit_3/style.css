@@ -1,0 +1,18 @@
+.imageleft{
+align: left;
+}
+.imageright{
+align: right;
+}
+.textleft{
+align: left;
+font-family: sans-serif;
+font-size: 12px;
+font-style: italic;
+}
+.textright{
+align: right;
+font-family: sans-serif;
+font-size: 12px;
+font-style: italic;
+}
